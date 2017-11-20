@@ -1,4 +1,30 @@
 .wrapper {
-    width: 96px;
+    width: 960px;
     margin: 0 auto;
+    background-color: aquamarine;
+}
+.fondo-cabecera{
+    background-color: brown;
+}
+
+
+
+.centrado{
+    text-align: center;
+}
+.formulario {
+   width: 100%;
+    float: left;
+}
+.col-izq{
+    width: 50%;
+    float: left;
+    text-align: right
+    
+}
+.col-der{
+    width: 50%;
+    float: left;
+    text-align: left;
+    
 }
